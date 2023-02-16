@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there, I'm Tam 👋
+
+## About me:
+
+I'm an undergraduate Mathematics major at Kenyon College, a liberal arts college in Ohio! 
+I'm interested in Data Analysis and Front-end development.
+
+
 
 <!--
 **tamnguyen-m/tamnguyen-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
